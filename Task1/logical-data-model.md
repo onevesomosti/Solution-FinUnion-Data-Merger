@@ -1,6 +1,6 @@
 # Логическая модель данных
 
-```
+```plantuml
 @startuml
 title ERD FinUnion + RetailBank
 
